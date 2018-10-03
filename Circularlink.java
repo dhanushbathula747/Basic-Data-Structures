@@ -13,7 +13,7 @@ class Linkedlist {
   Node head;
   public Linkedlist() {
     this.head = null;
-  }
+  }//class node
 
   public void addNode(int data) {
     Node temp;
